@@ -6,3 +6,7 @@ an ask left open at another. Part of https://mrswallbreakermaps.com.
 
 Nothing is released here yet. The research lives in a private repository; the released files will
 appear under `site/` when the first version is ready.
+
+## Licence
+
+Non-commercial research and educational use only, with attribution. See `LICENSE`.
